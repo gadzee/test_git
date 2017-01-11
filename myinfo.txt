@@ -1,1 +1,3 @@
-"Full name: Philippe Gadbois" 
+Full name: Philippe Gadbois"
+Department: Computer Science
+
